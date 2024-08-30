@@ -1,0 +1,11 @@
+Age,Job,Marital Status,Education,Balance,Has Credit,Purchased
+35,Admin,Married,University,1500,1,1
+42,Technician,Single,High School,3000,0,0
+29,Blue-collar,Married,High School,1200,1,0
+55,Retired,Divorced,Primary,200,0,0
+37,Management,Married,University,5000,1,1
+45,Self-employed,Single,University,2500,1,1
+61,Retired,Married,Primary,100,0,0
+28,Admin,Single,University,1800,1,1
+40,Technician,Single,High School,3200,1,0
+52,Management,Divorced,University,4700,1,1
